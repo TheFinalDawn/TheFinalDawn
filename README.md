@@ -18,9 +18,18 @@ Current Goal: Make an encryption tool to satisfy my obsession with cryptography
 </div>
 <br />
 
+~~The card up there may be inaccurate, depending on if I've uploaded my random projects by now.~~
+
+Languages I know (somewhat ordered by experience):
+* JS/Node (I use this for more than I should)
+* Python
+* Java
+* C#
+* C++ (hardly any knowledge)
+
+Bash, CMD, and Git should be put in their own category though.
 
 
-<p>The card up there may be inaccurate, depending on if I've uploaded my random projects by now.</p>
 <!--
 **TheFinalDawn/TheFinalDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
