@@ -22,6 +22,7 @@ Current Goal: Make an encryption tool to satisfy my obsession with cryptography
 
 Languages I know (somewhat ordered by experience):
 * JS/Node (I use this for more than I should)
+* HTML/CSS (can't design to save my life though lol)
 * Python
 * Java
 * C#
