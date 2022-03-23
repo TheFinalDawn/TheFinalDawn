@@ -1,14 +1,20 @@
-### Hi there, I'm TheFinalDawn, more commonly known as Resetium. 👋
+### Hi there, I'm Resetium, more commonly known as Reset. 👋
 
 ## I'm a student programmer with basic knowledge of many different languages.
 
-Hobbies include: Procrastination, failing to speak english, and going at hyperspeed at the most inopportune times.
+Pronouns: She/They 🏳️‍⚧️ (curse you github not displaying the flag right)
 
-Current projects: None
+Occupation: Student
 
-Learning: ~~Spanish~~ nothing specific
+Contact: resetium@gmail.com
 
-Current Goal: Make an encryption tool to satisfy my obsession with cryptography
+Hobbies include: Programming, rhythm games, and being incredibly indecisive.
+
+Current projects: Reworking my personal website
+
+Learning: Nothing specific.
+
+Current Goal: Make myself look presentable or something in preparation for college.
 
 <img alt="Statsheet" src="https://github-readme-stats.vercel.app/api?username=TheFinalDawn&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&custom_title=TheFinalDawn's Statsheet Pt 1">
 
@@ -18,17 +24,17 @@ Current Goal: Make an encryption tool to satisfy my obsession with cryptography
 </div>
 <br />
 
-~~The card up there may be inaccurate, depending on if I've uploaded my random projects by now.~~
+Disclaimer: The above card only reads my github projects, and not the various things I have worked on but not published on github specifically.
 
 Languages I know (somewhat ordered by experience):
 * JS/Node (I use this for more than I should)
-* HTML/CSS (can't design to save my life though lol)
+* HTML/CSS (note this is independent from designer skill)
 * Python
-* Java
+* Java (makes me go :D)
 * C#
 * C++ (hardly any knowledge)
 
-Bash, CMD, and Git should be put in their own category though.
+Bash, CMD, Git, and similar niche commandline languages should be put in their own category though.
 
 
 <!--
